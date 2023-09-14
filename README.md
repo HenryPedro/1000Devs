@@ -1,2 +1,2 @@
 # 1000Devs
-Exercicios para fins de treino de raciocio lógico em JS. 
+Exercicios para fins de treino de lógica de programação e raciocinio. 
